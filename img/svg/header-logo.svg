@@ -1,0 +1,10 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="79px" height="75px">
+<path fill-rule="evenodd"  opacity="0.749" fill="rgb(255, 255, 255)"
+ d="M12.000,8.000 L79.000,8.000 L79.000,75.000 L12.000,75.000 L12.000,8.000 Z"/>
+<path fill-rule="evenodd"  fill="rgb(17, 116, 158)"
+ d="M-0.000,-0.000 L67.000,-0.000 L67.000,67.000 L-0.000,67.000 L-0.000,-0.000 Z"/>
+<text font-family="OpenSans" fill="rgb(245, 245, 245)" transform="matrix( 0.79435885664513, 0, 0, 0.79435885664513,18.2578911589514, 43.8266651363867)" font-weight="bold" font-size="38.349px">CS</text>
+</svg>
